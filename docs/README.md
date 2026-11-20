@@ -103,13 +103,3 @@ python3 -m unittest discover -s tests -v
 1. `38a5106` add new fail with func (Добавлен новый файл `rectangle.py` с функциями для вычисления площади и периметра прямоугольника)
 2. `57f9491` fixed a bug in rectangle.py (Исправлена ошибка в вычислении периметра в файле `rectangle.py` ) 
 3. `d4bcc90` Добавлены docstrings в модули square,circle
-
-
-![]()
- основа <sub><span style="color: green"><u>~~***текст***~~</u></span> </sub>
-
-<sub>текст </sub> верт сл символ
-|заголовой 1|заголовок 2|
-|---|---|
-|111|22222|
-||  \||
